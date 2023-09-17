@@ -1,3 +1,4 @@
+
 $(document).ready(function () {  
   $("#firstModal").modal("show");
   $("#buttonInit").click(function () {
